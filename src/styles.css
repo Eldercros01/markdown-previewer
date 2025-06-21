@@ -1,0 +1,6 @@
+textarea {
+  resize: none;
+  background-color: #1e1e1e;
+  color: white;
+  border: 1px solid #ccc;
+}
