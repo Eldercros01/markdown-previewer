@@ -12,7 +12,7 @@ Este proyecto es una solución al desafío **"Build a Markdown Previewer"** de [
 
 ## 📸 Vista previa
 
-![Demo del proyecto](https://i.imgur.com/0XcA6I9.png)
+![Demo del proyecto](https://codepen.io/eldercross/pen/Pwqydgj)
 
 ## 🎯 Historias de Usuario
 
@@ -42,7 +42,7 @@ Este proyecto es una solución al desafío **"Build a Markdown Previewer"** de [
 ## ▶️ Cómo ejecutarlo localmente
 
 ```bash
-git clone https://github.com/tuusuario/markdown-previewer.git
+git clone https://github.com/Eldercros01/markdown-previewer.git
 cd markdown-previewer
 npm install
 npm start
